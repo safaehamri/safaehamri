@@ -9,6 +9,7 @@ Software Engineer | Tech Enthusiast
 
 - 🌱 I’m currently learning **java , spring boot , React**
 
+- 📫 How to reach me **www.linkedin.com/in/safae-hamri**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
